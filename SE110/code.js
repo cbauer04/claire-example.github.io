@@ -1,0 +1,1 @@
+document.getElementById("id1").innHTML = "Hello World";
